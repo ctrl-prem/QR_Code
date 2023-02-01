@@ -1,0 +1,46 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #D3E0EA;
+    text-align: center;
+}
+p{
+    line-height: 1;
+}
+.p1{
+    color: black;
+    margin: 40px 20px 20px 20px;
+    font-size: 17px;
+}
+.p2{
+    color: grey;
+    margin: 20px 20px 0 20px;
+    font-size: 14px;
+}
+
+.img1{
+    width: 120px;
+    height: 120px;
+    margin: 22.5% auto;
+}
+
+.div2{
+    background-color: #009EFF;
+    height: 220px;
+    width: 220px;
+    border-radius: 0.65rem;
+    margin: 0 15px;
+    position: relative;
+    top: 15px;
+}
+
+.attribution { 
+    background-color: white;
+    border-radius: 1.2rem;
+    position: relative;
+    width: 250px;
+    height: 400px;
+    margin: 20% auto;
+    font-size: 11px;
+    color: hsl(228, 45%, 44%);
+}
